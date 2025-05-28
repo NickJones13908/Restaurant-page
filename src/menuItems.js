@@ -1,4 +1,4 @@
-const x = 1; 
+
 import KrabbyImage from "./img/krabbypatty.jpg";
 import kelpImage from "./img/kelpShake.jpg";
 import chumImage from "./img/chumBurger.jpg";
@@ -22,4 +22,4 @@ const menuItems = [{
 ];
 
 export { menuItems };
-export { x }; // Exporting x for use in other modules
+
